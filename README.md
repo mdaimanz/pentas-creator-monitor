@@ -19,3 +19,9 @@ ii) Twilio Whatsapp API
 [ApiKey] = BSCScan API key
 <br />
 [PentasSmartContractAddress] = Pentas.io smart contract address
+
+## Python package that you need:
+<br />
+i) web3
+<br />
+ii) twilio
